@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=amirwolf5122)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=programmeruser2&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amirwolf5122&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=programmeruser2&theme=merko) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=amirwolf5122&theme=merko) 
