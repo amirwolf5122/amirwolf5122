@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirwolf5122&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=amirwolf5122&theme=merko) 
+<img width="100%" align="right" alt="Snake" src="https://github.com/KoRrNiK/KoRrNiK/blob/output/github-contribution-grid-snake.svg">
