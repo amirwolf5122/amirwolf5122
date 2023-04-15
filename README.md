@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=amirwolf5122)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=amirwolf5122&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <img width="100%" align="right" alt="Snake" src="https://github.com/amirwolf5122/amirwolf5122/blob/output/github-contribution-grid-snake.svg">
