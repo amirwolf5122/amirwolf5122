@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=amirwolf5122)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=amirwolf5122&count_private=true&theme=cobalt&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amirwolf5122&count_private=true&theme=random&show_icons=true&include_all_commits=true)
 <img width="100%" align="right" alt="Snake" src="https://github.com/amirwolf5122/amirwolf5122/blob/output/github-contribution-grid-snake.svg">
